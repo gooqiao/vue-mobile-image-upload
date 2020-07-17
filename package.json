@@ -16,7 +16,7 @@
   "author": "ming",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "vue": "^2.6.10",
     "weui": "^2.0.0"
   },
